@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1570903866 source:/media/mohamed/4AF20822F208153B/os labs /lab1 os/main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<string>
+	<cstring>
+	<signal.h>
+	<ctime>
+	<chrono>
+
